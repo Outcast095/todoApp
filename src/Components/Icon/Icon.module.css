@@ -1,0 +1,19 @@
+.IconTodoItem {
+    position: absolute;
+    background-color: transparent;
+    width: 20px;
+    height: 20px;
+    outline: none;
+    border: 1px solid #7e9bbd;  /* бордер кнопки удаления */
+    border-radius: 5px;        /* бордер радиус кнопки удаления */
+    left: 90%;                  /* бордер радиус кнопки удаления */
+}
+
+button.iconWrapper {
+    cursor: pointer;
+}
+
+
+.IconTodoEnter {
+
+}

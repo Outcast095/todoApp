@@ -1,0 +1,9 @@
+
+.todos {
+    min-width: 250px;
+    max-width: 500px;
+    padding: 25px 15px;
+    border-radius: 15px;
+    border: 1px solid #7e9bbd;
+    align-self: center;
+}

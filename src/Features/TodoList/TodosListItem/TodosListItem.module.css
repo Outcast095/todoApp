@@ -1,0 +1,21 @@
+.TodosListItem{
+    display: flex;
+    align-items: center;
+    position: relative;
+    border: 1px solid #CDBCE6;
+    border-radius: 7px;
+    margin-bottom: 5px;
+    padding: 5px 5px;
+    background-color: #D9CEE4;
+
+}
+
+
+
+.TodoText{
+    text-overflow: ellipsis;
+}
+
+.TodoCross{
+    text-decoration: line-through;
+}
